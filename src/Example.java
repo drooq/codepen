@@ -4,6 +4,7 @@ public class Example {
             int summ = 0;
             for (int i : arr) {
                 summ += i;
+                // next;
                 System.out.println(i);
                 System.out.println(summ);
             }
